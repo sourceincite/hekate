@@ -10,7 +10,7 @@
 - Version: 21.08.0.1 (latest)
 - File: identity-manager-21.08.0.1-19010796_OVF10.ova 
 - File SHA1: 69e9fb988522c92e98d2910cc106ba4348d61851
-- Further technical details: [https://srcincite.io/blog/2022/03/25/taking-on-a-new-identity-pwning-vmware-workspace-one-access.html](https://srcincite.io/blog/2022/03/25/taking-on-a-new-identity-pwning-vmware-workspace-one-access.html)
+- Further technical details: [https://srcincite.io/blog/2022/08/11/i-am-whoever-i-say-i-am-infiltrating-vmware-workspace-one-access-using-a-0-click-exploit.html](https://srcincite.io/blog/2022/08/11/i-am-whoever-i-say-i-am-infiltrating-vmware-workspace-one-access-using-a-0-click-exploit.html)
 
 # Summary
 
